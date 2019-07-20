@@ -1,7 +1,15 @@
-# books
+# k0fe's book list
+Список книг, которые я хочу прочитать или прочитал. В этом списке находится только non fiction литература, связанная с IT.
 
 # Legend
 
+- Статус - статус прочтения
+   - :heavy_minus_sign: - не прочёл
+   - :heavy_plus_sign: - прочёл
+- Приоритет - субъективная мастхевность книги
+  - :small_red_triangle: - высокая
+  - :heavy_minus_sign: - средняя
+  - :small_red_triangle_down: - низкая
 
 # Computer Science
 
