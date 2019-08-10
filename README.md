@@ -19,6 +19,7 @@
 :heavy_plus_sign: | Стив Макконнелл | Clean Code | Совершенный код. Мастер-класс | :small_red_triangle:
 :heavy_minus_sign:  | Фримен Эрик, Робсон Элизабет, Сиерра Кэти  | Head First Design Patterns | Head First. Паттерны проектирования.  | :small_red_triangle:
 :heavy_minus_sign:  | Панос Луридас | Real-World Algorithms: A Beginner's Guide | Алгоритмы для начинающих. Теория и практика для разработчика | :small_red_triangle:
+:heavy_minus_sign: | Майкл Ховард, Дэвид Лебланк | Writing Secure Code | Защищенный код | :small_red_triangle_down:
 
 # C#
 
@@ -29,6 +30,7 @@
 :heavy_plus_sign: | Джуст Виссер | Buildihg Maintainable Software (C# Edition) | Разработка обслуживаемых программ на языке C# | :small_red_triangle:
 :heavy_minus_sign: | Джозеф Албахари и Бен Албахари | C# 7.0 in a Nutshell: The Definitive Reference | C# 7.0. Справочник. Полное описание языка | :heavy_minus_sign:
 :heavy_plus_sign: | Марк Дж. Прайс | C# 7 and .NET Core 2.0 | C# 7 и .NET Core. Кросс-платформенная разработка для профессионалов. | :small_red_triangle_down:
+
 
 
 # Геймдизайн
