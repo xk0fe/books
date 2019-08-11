@@ -20,6 +20,7 @@
 :heavy_minus_sign:  | Фримен Эрик, Робсон Элизабет, Сиерра Кэти  | Head First Design Patterns | Head First. Паттерны проектирования.  | :small_red_triangle:
 :heavy_minus_sign:  | Панос Луридас | Real-World Algorithms: A Beginner's Guide | Алгоритмы для начинающих. Теория и практика для разработчика | :small_red_triangle:
 :heavy_minus_sign: | Майкл Ховард, Дэвид Лебланк | Writing Secure Code | Защищенный код | :small_red_triangle_down:
+:heavy_minus_sign: | Джуст Виссер | Building Software Teams: Ten Best Practices for Effective Software Development | Разработка обслуживаемых программ на языке C# | :heavy_minus_sign:
 
 # C#
 
