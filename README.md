@@ -32,6 +32,21 @@
 :heavy_minus_sign: | Джозеф Албахари и Бен Албахари | C# 7.0 in a Nutshell: The Definitive Reference | C# 7.0. Справочник. Полное описание языка | :heavy_minus_sign:
 :heavy_plus_sign: | Марк Дж. Прайс | C# 7 and .NET Core 2.0 | C# 7 и .NET Core. Кросс-платформенная разработка для профессионалов. | :small_red_triangle_down:
 
+## ASP.NET
+
+Статус | Автор | Название | Перевод | Приоритет
+------------ | ------------ | ------------- | ------------- | -------------
+:heavy_minus_sign: | Andrew Lock | ASP.NET Core in Action | ASP.NET Core in Action | :heavy_minus_sign:
+:heavy_minus_sign: | Пэкетт Дэвид, Чамберс Джеймс, Тиммс Саймон | ASP.NET Core Application Development: Building an Application in Four Sprints | ASP.NET Core. Разработка приложений | :heavy_minus_sign:
+
+## Xamarin
+
+Статус | Автор | Название | Перевод | Приоритет
+------------ | ------------ | ------------- | ------------- | -------------
+:heavy_minus_sign: | Jim Bennett | Xamarin in Action | Xamarin in Action | :heavy_minus_sign:
+
+
+
 
 
 # Геймдизайн
