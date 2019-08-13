@@ -10,6 +10,12 @@
   - :small_red_triangle: - высокая
   - :heavy_minus_sign: - средняя
   - :small_red_triangle_down: - низкая
+  
+# Stats
+
+Computer Science | C# | Геймдизайн | Unity |
+------------ | ------------ | ------------- | ------------- 
+1/6 | 2/8 | 2/3 | 0/5 | 1/2
 
 # Computer Science
 
