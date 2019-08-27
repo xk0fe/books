@@ -24,9 +24,17 @@ Computer Science | C# | Геймдизайн | Unity |
 :heavy_minus_sign: | Харольд Абельсон, Джеральд Джей Сассман | Structure and Interpretation of Computer Programs | Структура и интерпретация компьютерных программ | :small_red_triangle:
 :heavy_plus_sign: | Стив Макконнелл | Clean Code | Совершенный код. Мастер-класс | :small_red_triangle:
 :heavy_minus_sign:  | Фримен Эрик, Робсон Элизабет, Сиерра Кэти  | Head First Design Patterns | Head First. Паттерны проектирования.  | :small_red_triangle:
-:heavy_minus_sign:  | Панос Луридас | Real-World Algorithms: A Beginner's Guide | Алгоритмы для начинающих. Теория и практика для разработчика | :small_red_triangle:
 :heavy_minus_sign: | Майкл Ховард, Дэвид Лебланк | Writing Secure Code | Защищенный код | :small_red_triangle_down:
 :heavy_minus_sign: | Джуст Виссер | Building Software Teams: Ten Best Practices for Effective Software Development | Разработка обслуживаемых программ на языке C# | :heavy_minus_sign:
+
+# Структуры данных и алгоритмы
+
+Статус | Автор | Название | Перевод | Приоритет
+------------ | ------------ | ------------- | ------------- | -------------
+:heavy_minus_sign: | Адитья Бхаргава | Grokking Algorithms | Грокаем алгоритмы | :small_red_triangle:
+:heavy_minus_sign: | Джордж Хайнеман, Гари Поллис, Стэнли Селков | Algorithms in a Nutshell | Алгоритмы. Справочник с примерами на C, C++, Java и Python | :small_red_triangle:
+:heavy_minus_sign:  | Тим Рафгарден | Algorithms Illuminated Part 2: Graph Algorithms and Data Structures  | Совершенный алгоритм. Графовые алгоритмы и структуры данных  | :small_red_triangle:
+:heavy_minus_sign:  | Панос Луридас | Real-World Algorithms: A Beginner's Guide | Алгоритмы для начинающих. Теория и практика для разработчика | :small_red_triangle:
 
 # C#
 
