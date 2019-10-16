@@ -41,7 +41,7 @@ Computer Science | C# | Геймдизайн | Unity |
 Статус | Автор | Название | Перевод | Приоритет
 ------------ | ------------ | ------------- | ------------- | -------------
 :heavy_minus_sign: | Джеффри Рихтер | CLR via C# | CLR via C# | :small_red_triangle:
-:heavy_minus_sign: | Герберт Шилдт | C# 4.0 The Complete Reference | C# 4.0: полное руководство | :small_red_triangle:
+:heavy_plus_sign: | Герберт Шилдт | C# 4.0 The Complete Reference | C# 4.0: полное руководство | :small_red_triangle:
 :heavy_plus_sign: | Джуст Виссер | Buildihg Maintainable Software (C# Edition) | Разработка обслуживаемых программ на языке C# | :small_red_triangle:
 :heavy_minus_sign: | Джозеф Албахари и Бен Албахари | C# 7.0 in a Nutshell: The Definitive Reference | C# 7.0. Справочник. Полное описание языка | :heavy_minus_sign:
 :heavy_plus_sign: | Марк Дж. Прайс | C# 7 and .NET Core 2.0 | C# 7 и .NET Core. Кросс-платформенная разработка для профессионалов. | :small_red_triangle_down:
@@ -75,5 +75,5 @@ Computer Science | C# | Геймдизайн | Unity |
 
 Статус | Автор | Название | Перевод | Приоритет
 ------------ | ------------ | ------------- | ------------- | -------------
-:heavy_minus_sign: | Джереми Гибсон Бонд | Introduction to Game Design, Prototyping, and Development: From Concept to Playable Game with Unity and C# | Unity и C#. Геймдев от идеи до реализации | :small_red_triangle:
+:heavy_plus_sign: | Джереми Гибсон Бонд | Introduction to Game Design, Prototyping, and Development: From Concept to Playable Game with Unity and C# | Unity и C#. Геймдев от идеи до реализации | :small_red_triangle:
 :heavy_plus_sign: | Джозеф Хокинг | Unity in Action | Unity в действии | :small_red_triangle_down:
