@@ -59,10 +59,6 @@ Computer Science | C# | Геймдизайн | Unity |
 ------------ | ------------ | ------------- | ------------- | -------------
 :heavy_minus_sign: | Jim Bennett | Xamarin in Action | Xamarin in Action | :heavy_minus_sign:
 
-
-
-
-
 # Геймдизайн
 
 Статус | Автор | Название | Перевод | Приоритет
