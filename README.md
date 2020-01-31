@@ -40,7 +40,7 @@ Computer Science | C# | Геймдизайн | Unity |
 
 Статус | Автор | Название | Перевод | Приоритет
 ------------ | ------------ | ------------- | ------------- | -------------
-:heavy_minus_sign: | Джеффри Рихтер | CLR via C# | CLR via C# | :small_red_triangle:
+:heavy_plus_sign: | Джеффри Рихтер | CLR via C# | CLR via C# | :small_red_triangle:
 :heavy_plus_sign: | Герберт Шилдт | C# 4.0 The Complete Reference | C# 4.0: полное руководство | :small_red_triangle:
 :heavy_plus_sign: | Джуст Виссер | Buildihg Maintainable Software (C# Edition) | Разработка обслуживаемых программ на языке C# | :small_red_triangle:
 :heavy_minus_sign: | Джозеф Албахари и Бен Албахари | C# 7.0 in a Nutshell: The Definitive Reference | C# 7.0. Справочник. Полное описание языка | :heavy_minus_sign:
